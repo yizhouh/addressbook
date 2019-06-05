@@ -1,0 +1,11 @@
+D:\workplace_treehouse\adressbook\bin\Debug\netcoreapp2.2\adressbook.deps.json
+D:\workplace_treehouse\adressbook\bin\Debug\netcoreapp2.2\adressbook.runtimeconfig.json
+D:\workplace_treehouse\adressbook\bin\Debug\netcoreapp2.2\adressbook.runtimeconfig.dev.json
+d:\workplace_treehouse\adressbook\bin\Debug\netcoreapp2.2\adressbook.dll
+d:\workplace_treehouse\adressbook\bin\Debug\netcoreapp2.2\adressbook.pdb
+d:\workplace_treehouse\adressbook\obj\Debug\netcoreapp2.2\adressbook.csprojAssemblyReference.cache
+d:\workplace_treehouse\adressbook\obj\Debug\netcoreapp2.2\adressbook.csproj.CoreCompileInputs.cache
+d:\workplace_treehouse\adressbook\obj\Debug\netcoreapp2.2\adressbook.AssemblyInfoInputs.cache
+d:\workplace_treehouse\adressbook\obj\Debug\netcoreapp2.2\adressbook.AssemblyInfo.cs
+d:\workplace_treehouse\adressbook\obj\Debug\netcoreapp2.2\adressbook.dll
+d:\workplace_treehouse\adressbook\obj\Debug\netcoreapp2.2\adressbook.pdb
